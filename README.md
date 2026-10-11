@@ -33,7 +33,7 @@ def moyenne(valeurs):
 
 ```bash
 python3 moyenne.py
-```
+```ma
 
 ---
 
